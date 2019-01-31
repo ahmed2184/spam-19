@@ -12,7 +12,7 @@ client.on('ready', () => {
 
 
 client.on("ready", () => {
-let channel =     client.channels.get("529694270668537876")
+let channel =     client.channels.get("540588950717202462")
 setInterval(function() {
 channel.send(`asdfasfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdf`);
 }, 25)
